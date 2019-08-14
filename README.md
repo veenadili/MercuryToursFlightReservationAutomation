@@ -18,3 +18,5 @@ https://www.toolsqa.com/selenium-webdriver/c-sharp/checkbox-radio-button-operati
 
 #Table Xpath 
 https://www.guru99.com/selenium-webtable.html
+
+NOTE: Issues faced most of the times the site ("http://newtours.demoaut.com/mercurywelcome.php") takes time to load the next page after providing the login details
